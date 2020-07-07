@@ -43,4 +43,4 @@ Licensed under the [MIT License](https://3raxton.github.io/license) by [Braxton 
 
 ### **If there is any other problem, please refer to the <a href="https://github.com/Pe8er/Playbox.widget"  target="_blank">Playbox.widget Repo</a> to help troubleshoot your problem.**
 
-Hopefully the Homesick theme helps improve your use of Mailspring and treats you well! Cheers!
+Hopefully the Homesick theme helps improve your use of Übersicht and treats you well! Cheers!
